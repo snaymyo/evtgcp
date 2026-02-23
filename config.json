@@ -11,7 +11,7 @@
       "settings": {
         "clients": [
           {
-            "id": "ba0e3984-ccc9-48a3-8074-b2f507f41ce8",
+            "id": "7f4bff87-6054-498c-b088-3e2cb54133d0",
             "flow": ""
           }
         ],
@@ -20,7 +20,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/@nkka404",
+          "path": "/@evt_vpn",
           "headers": {
             "Host": ""
           }
